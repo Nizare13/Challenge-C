@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1637115095 source:c:\users\youcode\desktop\nizar\c-language\coditions\conditions\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637534922 source:c:\users\youcode\desktop\nizar\c-language\c-language\conditions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
